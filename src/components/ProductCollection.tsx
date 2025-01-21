@@ -153,7 +153,7 @@ const ProductCollection: React.FC = () => {
 
                         <div className="border-t border-gray-200 bg-white">
                             <header className="flex items-center justify-between p-4">
-                            <span className="text-sm text-gray-700"> The highest price is $600 </span>
+                            <span className="text-sm text-gray-700"> The highest price is 500 POPS </span>
 
                             <button type="button" className="text-sm text-gray-900 underline underline-offset-4">
                                 Reset
@@ -323,7 +323,7 @@ const ProductCollection: React.FC = () => {
                             <p className="mt-2">
                             <span className="sr-only"> Regular Price </span>
 
-                            <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
+                            <span className="tracking-wider text-gray-900"> 2 POPS </span>
                             </p>
                         </div>
                         </a>
@@ -348,7 +348,7 @@ const ProductCollection: React.FC = () => {
                             <p className="mt-2">
                             <span className="sr-only"> Regular Price </span>
 
-                            <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
+                            <span className="tracking-wider text-gray-900"> 5 POPS </span>
                             </p>
                         </div>
                         </a>
@@ -373,7 +373,7 @@ const ProductCollection: React.FC = () => {
                             <p className="mt-2">
                             <span className="sr-only"> Regular Price </span>
 
-                            <span className="tracking-wider text-gray-900"> £24.00 GBP </span>
+                            <span className="tracking-wider text-gray-900"> 20 POPS </span>
                             </p>
                         </div>
                         </a>
