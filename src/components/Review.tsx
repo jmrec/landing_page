@@ -101,12 +101,10 @@ const Review: React.FC = () => {
                     </div>
 
                     <div className="mt-4">
-                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Game Changer</p>
 
                         <p className="mt-4 leading-relaxed text-gray-700">
-                        No, Rose, they are not breathing. And they have no arms or legs … Where are they? You
-                        know what? If we come across somebody with no arms or legs, do we bother resuscitating
-                        them? I mean, what quality of life do we have there?
+                        This shirt is pure 🔥! The fit is insane, and the design is so damn sexy. My partner went wild when I put it on. 😈 Definitely recommend for a night of fun.
                         </p>
                     </div>
                     </div>
@@ -176,12 +174,10 @@ const Review: React.FC = () => {
                     </div>
 
                     <div className="mt-4">
-                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Confidence Booster</p>
 
                         <p className="mt-4 leading-relaxed text-gray-700">
-                        No, Rose, they are not breathing. And they have no arms or legs … Where are they? You
-                        know what? If we come across somebody with no arms or legs, do we bother resuscitating
-                        them? I mean, what quality of life do we have there?
+                        This shirt makes me feel absolutely incredible. I feel so confident and sexy in it. It's perfect for a night out or a romantic evening in. 😉
                         </p>
                     </div>
                     </div>
@@ -251,12 +247,10 @@ const Review: React.FC = () => {
                     </div>
 
                     <div className="mt-4">
-                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                        <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Bedroom Staple</p>
 
                         <p className="mt-4 leading-relaxed text-gray-700">
-                        No, Rose, they are not breathing. And they have no arms or legs … Where are they? You
-                        know what? If we come across somebody with no arms or legs, do we bother resuscitating
-                        them? I mean, what quality of life do we have there?
+                        Let's just say this shirt has become a staple in my bedroom wardrobe. 😜 It's incredibly comfortable and the design is just... wow. Highly recommend for anyone looking to spice things up.
                         </p>
                     </div>
                     </div>

@@ -8,8 +8,7 @@ const ProductCollection: React.FC = () => {
                 <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">Product Collection</h2>
 
                 <p className="mt-4 max-w-md text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque praesentium cumque iure
-                    dicta incidunt est ipsam, officia dolor fugit natus?
+                Discover the Eddie Collection: Bold designs, premium quality, and effortless style. Shop now and express yourself
                 </p>
                 </header>
 
@@ -317,7 +316,7 @@ const ProductCollection: React.FC = () => {
                             <h3
                             className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
                             >
-                            Basic Tee
+                            Happy Tee
                             </h3>
 
                             <p className="mt-2">
@@ -342,7 +341,7 @@ const ProductCollection: React.FC = () => {
                             <h3
                             className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
                             >
-                            Basic Tee
+                            Concert Tee
                             </h3>
 
                             <p className="mt-2">
@@ -367,7 +366,7 @@ const ProductCollection: React.FC = () => {
                             <h3
                             className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
                             >
-                            Basic Tee
+                            Bed Tee
                             </h3>
 
                             <p className="mt-2">
