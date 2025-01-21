@@ -1,8 +1,8 @@
-import Image from "next/image";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import ProductCollection from "@/components/ProductCollection";
 import Cta from "@/components/Cta";
+import Review from "@/components/Review";
 
 export default function Home() {
   return (
@@ -10,6 +10,7 @@ export default function Home() {
       <Header/>
       <Cta/>
       <ProductCollection/>
+      <Review/>
 
       {/* <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a

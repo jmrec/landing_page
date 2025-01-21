@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const ProductCollection: React.FC = () => {
     return (
         <section>
@@ -307,7 +309,7 @@ const ProductCollection: React.FC = () => {
                         <img
                             // src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                             src="https://www.shophappyeddie.com/cdn/shop/files/BlackwYellow_2.jpg?v=1698073922"
-                            alt=""
+                            alt="Eddie T-shirt"
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 
@@ -332,7 +334,7 @@ const ProductCollection: React.FC = () => {
                         <img
                             // src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                             src="https://dirtystopouts.com/cdn/shop/products/eddie-cochran-fast-moving-beat-show-unisex-fit-t-shirt-various-colours-799370.jpg?v=1704742326&width=1946"
-                            alt=""
+                            alt="Eddie T-shirt"
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 
@@ -357,7 +359,7 @@ const ProductCollection: React.FC = () => {
                         <img
                             // src="https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
                             src="https://breakingt.com/cdn/shop/files/2311802_Vneck_600x.jpg?v=1692639761"
-                            alt=""
+                            alt="Eddie T-shirt"
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 

@@ -1,9 +1,9 @@
 import React from 'react';
-import Link from 'next/link'; 
+import Image from 'next/image';
 
 const Header: React.FC = () => {
   return (
-    <header className="bg-white fixed top-0 left-0 right-0">
+    <header className="bg-white fixed top-0 left-0 right-0 z-50">
       <div className="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
         <a className="block text-teal-600" href="#">
           <span className="sr-only">Home</span>
@@ -13,7 +13,7 @@ const Header: React.FC = () => {
               fill="currentColor"
             />
           </svg> */}
-          <img className="h-10" src="https://static.cdnlogo.com/logos/e/59/eddie-g-2.svg"/>
+          <img alt="Eddie Logo" className="h-10" src="https://static.cdnlogo.com/logos/e/59/eddie-g-2.svg"/>
         </a>
 
         <div className="flex flex-1 items-center justify-end md:justify-between">
