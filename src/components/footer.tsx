@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
                 <h2 className="text-3xl font-extrabold text-gray-900 sm:text-5xl">Customise Your Tee</h2>
 
                 <p className="mx-auto mt-4 max-w-sm text-gray-500">
-                    Make sure you ain't booty!
+                    Make sure you ain&apos;t booty!
                 </p>
 
                 <a
@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
                     <div className="grid grid-cols-1 gap-1 lg:grid-cols-3">
                     <div className="justify-center">
                         <div className="flex justify-center text-teal-600 sm:justify-start">
-                        <img className="h-20" src="https://static.cdnlogo.com/logos/e/59/eddie-g-2.svg"/>
+                        <img alt="Eddie Logo" className="h-20" src="https://static.cdnlogo.com/logos/e/59/eddie-g-2.svg"/>
                         </div>
 
                         <ul className="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">

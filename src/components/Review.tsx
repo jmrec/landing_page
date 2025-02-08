@@ -177,7 +177,7 @@ const Review: React.FC = () => {
                         <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Confidence Booster</p>
 
                         <p className="mt-4 leading-relaxed text-gray-700">
-                        This shirt makes me feel absolutely incredible. I feel so confident and sexy in it. It's perfect for a night out or a romantic evening in. 😉
+                        This shirt makes me feel absolutely incredible. I feel so confident and sexy in it. It&apos;s perfect for a night out or a romantic evening in. 😉
                         </p>
                     </div>
                     </div>
@@ -250,7 +250,7 @@ const Review: React.FC = () => {
                         <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Bedroom Staple</p>
 
                         <p className="mt-4 leading-relaxed text-gray-700">
-                        Let's just say this shirt has become a staple in my bedroom wardrobe. 😜 It's incredibly comfortable and the design is just... wow. Highly recommend for anyone looking to spice things up.
+                        Let&apos;s just say this shirt has become a staple in my bedroom wardrobe. 😜 It&apos;s incredibly comfortable and the design is just... wow. Highly recommend for anyone looking to spice things up.
                         </p>
                     </div>
                     </div>

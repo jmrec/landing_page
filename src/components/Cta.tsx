@@ -10,7 +10,7 @@ const Cta: React.FC = () => {
                 <p className="text-lg hidden max-w-lg text-white/90 md:mt-6 md:block md:text-2xl md:leading-relaxed">
                     {/* Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore officia corporis quasi
                     doloribus iure architecto quae voluptatum beatae excepturi dolores. */}
-                    Don't Be Basic. Wear Eddie.
+                    Don&apos;t Be Basic. Wear Eddie.
                 </p>
 
                 <div className="mt-4 sm:mt-8">

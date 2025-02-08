@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const ProductCollection: React.FC = () => {
     return (
         <section>
