@@ -150,7 +150,7 @@ const ProductCollection: React.FC = () => {
 
                         <div className="border-t border-gray-200 bg-white">
                             <header className="flex items-center justify-between p-4">
-                            <span className="text-sm text-gray-700"> The highest price is 500 POPS </span>
+                            <span className="text-sm text-gray-700"> The highest price is UNLI POPS </span>
 
                             <button type="button" className="text-sm text-gray-900 underline underline-offset-4">
                                 Reset
@@ -310,18 +310,21 @@ const ProductCollection: React.FC = () => {
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 
-                        <div className="relative bg-white pt-3">
-                            <h3
-                            className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
-                            >
-                            Happy Tee
-                            </h3>
-
-                            <p className="mt-2">
-                            <span className="sr-only"> Regular Price </span>
-
-                            <span className="tracking-wider text-gray-900"> 2 POPS </span>
-                            </p>
+                        <div className="relative bg-white pt-3 flex justify-around">
+                            <span>
+                                <h3
+                                className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
+                                >
+                                Happy Tee
+                                </h3>
+                                <p className="mt-2">
+                                    <span className="sr-only"> Regular Price </span>
+                                    <span className="tracking-wider text-gray-900"> 2 POPS </span>
+                                </p>
+                            </span>
+                            <span>
+                                <button type="button" className="text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Add to cart</button>
+                            </span>
                         </div>
                         </a>
                     </li>
@@ -335,18 +338,21 @@ const ProductCollection: React.FC = () => {
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 
-                        <div className="relative bg-white pt-3">
-                            <h3
-                            className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
-                            >
-                            Concert Tee
-                            </h3>
-
-                            <p className="mt-2">
-                            <span className="sr-only"> Regular Price </span>
-
-                            <span className="tracking-wider text-gray-900"> 5 POPS </span>
-                            </p>
+                        <div className="relative bg-white pt-3 flex justify-around">
+                            <span>
+                                <h3
+                                className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
+                                >
+                                Concert Tee
+                                </h3>
+                                <p className="mt-2">
+                                    <span className="sr-only"> Regular Price </span>
+                                    <span className="tracking-wider text-gray-900"> 5 POPS </span>
+                                </p>
+                            </span>
+                            <span>
+                                <button type="button" className="text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Add to cart</button>
+                            </span>
                         </div>
                         </a>
                     </li>
@@ -360,18 +366,21 @@ const ProductCollection: React.FC = () => {
                             className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                         />
 
-                        <div className="relative bg-white pt-3">
-                            <h3
-                            className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
-                            >
-                            Bed Tee
-                            </h3>
-
-                            <p className="mt-2">
-                            <span className="sr-only"> Regular Price </span>
-
-                            <span className="tracking-wider text-gray-900"> 20 POPS </span>
-                            </p>
+                        <div className="relative bg-white pt-3 flex justify-around">
+                            <span>
+                                <h3
+                                className="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4"
+                                >
+                                Concert Tee
+                                </h3>
+                                <p className="mt-2">
+                                    <span className="sr-only"> Regular Price </span>
+                                    <span className="tracking-wider text-gray-900"> UNLI POPS </span>
+                                </p>
+                            </span>
+                            <span>
+                                <button type="button" className="text-white bg-gradient-to-r from-gray-400 via-gray-500 to-gray-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-gray-300 dark:focus:ring-gray-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Reserved for a special someone.</button>
+                            </span>
                         </div>
                         </a>
                     </li>
